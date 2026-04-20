@@ -1,6 +1,7 @@
 # macrozone
 
 ## Features
+
 - Add meals with calorie and macro information
 - Track daily totals for calories, protein, carbs, and fat
 - View all meals or recent meals on the home screen
@@ -9,3 +10,17 @@
 - Daily reminder notifications (iOS)
 - Data persistence with AsyncStorage
 - Tab-based navigation with a modern UI
+
+## Get started
+
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Start the app
+
+   ```bash
+   npx expo start
+   ```
